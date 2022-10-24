@@ -13,3 +13,4 @@ Solutions for questions which have been attempted on [StrataScratch](https://www
 |10083|[Start Dates Of Top Drivers](https://platform.stratascratch.com/coding/10083-start-dates-of-top-drivers?code_type=1)|Medium|[Link](https://github.com/mwacinski/stratascratchexer/blob/main/10083.sql)
 |10303|[Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1)|Hard|[Link](https://github.com/mwacinski/stratascratchexer/blob/main/10303.sql)
 |9898|[Distinct Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?code_type=1)|Hard|[Link](https://github.com/mwacinski/stratascratchexer/blob/main/9898.sql)
+|10302|[Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1)|Hard|[Link](https://github.com/mwacinski/stratascratchexer/blob/main/10302.sql)
